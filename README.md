@@ -8,6 +8,6 @@
     <h1>Walidacja</h1>
     <img src="błąd_Wawrzyniak-Pekar.jpg" alt="błąd_Wawrzyniak-Pekar.jpg" width="300">
 	<img src="poprawa_Wawrzyniak-Pekar_Kacper.jpg" alt="poprawa_Wawrzyniak-Pekar_Kacper.jpg" width="300">
-    <p><a href="http://www.indexhtml.pl">Powrót do strony głównej</a></p>
+    <p><a href="https://kacperwawrzyniakpekar.github.io/zadania-1-6/">Powrót do strony głównej</a></p>
 </body>
 </html>
