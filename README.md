@@ -7,7 +7,7 @@
     <h1>Walidacja</h1>
     <img src="błąd_Wawrzyniak-Pekar.jpg" alt="błąd_Wawrzyniak-Pekar.jpg" width="300">
 	<img src="poprawa_Wawrzyniak-Pekar_Kacper.jpg" alt="poprawa_Wawrzyniak-Pekar_Kacper.jpg" width="300">
+	<img src="html.jpg" alt="html5.jpg">
     <p><a href="https://kacperwawrzyniakpekar.github.io/zadania-1-6/">Powrót do strony głównej</a></p>
-    <img src="html.jpg" alt="html5.jpg">
 </body>
 </html>
